@@ -1,0 +1,4 @@
+2024-04-08 14:03:20,744 +0530 [main] INFO  (BeforeAfterTest.java:37) - Execution started
+2024-04-08 14:03:26,575 +0530 [main] INFO  (BeforeAfterTest.java:39) - Driver triggered
+2024-04-08 14:03:26,582 +0530 [main] INFO  (HomePageTest.java:13) - test executed
+2024-04-08 14:03:26,796 +0530 [main] INFO  (BeforeAfterTest.java:54) - Execution ended
