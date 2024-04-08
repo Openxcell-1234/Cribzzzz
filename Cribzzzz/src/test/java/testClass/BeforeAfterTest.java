@@ -34,6 +34,7 @@ public class BeforeAfterTest extends TestBase {
 	@BeforeMethod
 	public void beforeMethod(ITestResult result) {
 //		ExtentManager.onTestSuccess(result.getMethod().getMethodName());
+		log.info("Execution started");
 		prerequisite();
 		log.info("Driver triggered");
 	}
@@ -50,6 +51,7 @@ public class BeforeAfterTest extends TestBase {
 		}
 
 		driver.close();
+		log.info("Execution ended");
 	}
 
 	@AfterSuite
