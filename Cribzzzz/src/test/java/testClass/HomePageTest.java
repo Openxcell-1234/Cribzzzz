@@ -13,5 +13,18 @@ public class HomePageTest extends BeforeAfterTest{
 		log.info("test executed");
 		
 	}
+	
+	public void aaaaaaaaa() {
+		System.out.println("Other Project");
+		
+	}
+	
+	public void bbbbb() {
+		System.out.println("fjhvkjdfghjh");
+	}
+	
+	public void cccc() {
+		System.out.println("hjdfgvjhdf");
+	}
 
 }
